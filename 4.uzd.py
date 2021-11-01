@@ -4,7 +4,7 @@ saraksts = sk
 
 saraksts = [int(sk) for sk in input('Ievadi skaitļus, atdalot tos ar atstarpi:')]
 
-saraksts = [int(sk) for sk in input('Ievadi skaitļus, atdalot tos ar atstarpi:'). split()]
+saraksts = [int(sk) for sk in input('Ievadi skaitļus, atdalot tos ar atstarpi:').split()]
 
 for i in range(len(saraksts)):
   print(i)

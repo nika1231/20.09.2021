@@ -1,0 +1,3 @@
+import apaks
+
+apaks.abc()
