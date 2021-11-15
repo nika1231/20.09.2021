@@ -13,3 +13,14 @@ def bilde():
     im.show()
 
 bilde()
+
+#nolasa attēlu
+   im = Image.open("sample_image.png")
+
+
+#pagriež attēlu
+
+angle = 90
+
+ out = im.rotate(angle)
+ out.save('rotate-output.png')
