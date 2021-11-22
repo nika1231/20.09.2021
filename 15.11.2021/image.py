@@ -15,12 +15,12 @@ def bilde():
 bilde()
 
 #nolasa attēlu
-   im = Image.open("sample_image.png")
+im = Image.open("15.11.2021/suns.jpg")
 
 
 #pagriež attēlu
 
 angle = 90
 
- out = im.rotate(angle)
- out.save('rotate-output.png')
+out = im.rotate(angle)
+out.save('rotate-output.png')

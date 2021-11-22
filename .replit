@@ -1,2 +1,2 @@
 language = "python3"
-run = "python 15.11.2021/image.py"
+run = "python uzdevums.ladites.py"
