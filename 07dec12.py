@@ -1,10 +1,10 @@
 #treniņš ieskaitei
 #izveido klasi
 class Transportlidzeklis:
-  krasa = melna
+  krasa = 'melna'
   #pievieno īpašības
   def __init__(self, nosaukums, max_atrums, nobraukums):
-   bself.nosaukums = nosaukums
+   self.nosaukums = nosaukums
    self.max_atrums = max_atrums
    self.nobraukums = nobraukums
 
@@ -31,6 +31,7 @@ class Buss(Transportlidzeklis):
 Skolas_buss = Buss('Mersedess', 140, 20)
 print(Skolas_buss.sedvietu_skaits())
 
-Skolas_buss = Buss('Mersedess', 140, 20)
-print(Skolas_buss.krasa, Skolas_buss.nosaukums, “Ātrums:”, Skolas_buss.max_atrums,
-“Nobraukums:”, Skolas_buss.nobraukums)
+
+print(Skolas_buss.krasa, Skolas_buss.nosaukums, 'Ātrums:', Skolas_buss.max_atrums,
+'Nobraukums:', Skolas_buss.nobraukums)
+print(Skolas_buss.biletes())
