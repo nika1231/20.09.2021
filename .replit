@@ -1,2 +1,2 @@
 language = "python3"
-run = "python 11dec.py"
+run = "python darbspecpiemera.py"
