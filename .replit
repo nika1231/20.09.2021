@@ -1,2 +1,2 @@
 language = "python3"
-run = "python darbspecpiemera.py"
+run = "python 12_04.py"

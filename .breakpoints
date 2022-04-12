@@ -1,13 +1,5 @@
 {
   "files": {
-    ".replit": [
-      {
-        "id": "b3756c8d-4f1d-4f16-ae5f-8ff32503dc35",
-        "line": 2,
-        "version": 249,
-        "index": 21
-      }
-    ],
     "07.12.py": [
       {
         "id": "8df4e2b1-8cd8-4473-8ac3-858ba0b78d80",
@@ -22,6 +14,14 @@
         "line": 16,
         "version": 498,
         "index": 309
+      }
+    ],
+    "17janmd.py": [
+      {
+        "id": "d69bfc1e-9cd8-4461-9923-11eab69b41f7",
+        "line": 16,
+        "version": 94,
+        "index": 387
       }
     ],
     "otra stunda dec.py": [
